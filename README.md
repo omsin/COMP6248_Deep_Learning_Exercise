@@ -1,1 +1,1 @@
-# COMP6248_Deep_Learning_Exercise
+# COMP6248 Deep Learning Exercise
