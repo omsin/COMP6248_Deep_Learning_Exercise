@@ -1,1 +1,1 @@
-# COMP6248 Deep Learning Exercise
+# COMP6248 Deep Learning Experiment
